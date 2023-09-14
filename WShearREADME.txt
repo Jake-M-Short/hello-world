@@ -1,0 +1,2 @@
+Nothing big here, just a basic readme!
+From Missoula, Compsci Major, and I'm a big fan of git desktop due to account management. It's SUCH a hassle if you've got a private git account and a school one using commandline
